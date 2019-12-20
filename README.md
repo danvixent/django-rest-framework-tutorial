@@ -1,0 +1,3 @@
+# djangorestframeworkGCI-
+Django Rest Framework GCI task
+Thee .png files are the screenshots...
