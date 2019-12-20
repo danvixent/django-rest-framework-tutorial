@@ -1,0 +1,8 @@
+myenv
+db.sqlite3
+/.vscode
+*.pyc
+*~
+__pycache__
+/static
+.DS_Store
